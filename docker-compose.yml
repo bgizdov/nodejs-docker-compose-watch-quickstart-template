@@ -3,7 +3,6 @@ services:
   app:
     build: .
     command: npm start
-    restart: unless-stopped
     ports:
       - "3000:3000"
     develop:
