@@ -5,10 +5,7 @@
   },
   "name": "nodejs-docker-watch",
   "version": "1.0.0",
-  "main": "app.js",
-  "scripts": {
-    "test": "test"
-  },
+  "main": "server.js",
   "author": "",
   "license": "ISC",
   "description": ""
