@@ -14,4 +14,4 @@ To start the application, use the following command:
 
 or
 
-```docker compose watch``````
+```docker compose watch```
